@@ -1,0 +1,45 @@
+server:
+  port: 8080
+
+langchain4j:
+  open-ai:
+    chat-model:
+      base-url: http://langchain4j.dev/demo/openai/v1
+      api-key: demo
+      model-name: gpt-4o-mini
+      log-requests: true
+      log-responses: true
+  community:
+    dashscope:
+      chat-model:
+        model-name: qwen-plus
+        api-key: ${ALI_API_KEY}
+      embedding-model:
+        api-key: ${ALI_API_KEY}
+        model-name: text-embedding-v3
+      streaming-chat-model:
+        api-key: ${ALI_API_KEY}
+        model-name: qwen-plus
+
+
+
+
+logging:
+  level:
+    root: info
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/langchain4j_chat_memory
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/zzuass?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
