@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6f22f90-e28a-44d2-adca-34c8010c9587" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/store/MongoChatMemoryStore.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-spring-boot-starter/1.0.0-beta3/langchain4j-spring-boot-starter-1.0.0-beta3.jar!/dev/langchain4j/service/spring/AiService.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/1.0.0-beta3/langchain4j-1.0.0-beta3.jar!/dev/langchain4j/service/UserMessage.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\develop\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2y4JMM4AAEBfz1X5FRZQh5hvbvL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AIServiceTest.testAssistant.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.AIServiceTest.testQwenChatModel.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.AppointmentServiceTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.AppointmentServiceTest.testGetOne_MissingCrucialCriteria.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppointmentServiceTest.testUpdateAppointment.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChatMemoryTest.testChatMemory.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChatMemoryTest.testMemoryAssistant.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChatMemoryTest.testSeparateMemoryAssistant.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.EmbeddingTest.testEmbedding.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.EmbeddingTest.testPinecone.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.EmbeddingTest.upLoadZZUHOSLib.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MongoCrudTest.testInsert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PromptTest.PromptMessageTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PromptTest.PromptMessageTest2.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PromptTest.PromptMessageTest3.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PromptTest.testUserInfo.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ToolsTest.toolsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.langchain4jTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.langchain4jTest.testGPTDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.langchain4jTest.testQwenChatModel.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.langchain4jTest.testSpringBoot.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.zzuHosAss.executor&quot;: &quot;Run&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/develop/JavaWeb/AI/郑大校医助手/后端/ZZU-hospital-assist/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\JavaWeb\AI\郑大校医助手\后端\ZZU-hospital-assist\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.zzu.langchain4jStarter.assistant" />
+      <recent name="edu.zzu.langchainTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.zzuHosAss">
+    <configuration name="AppointmentServiceTest.testGetOne_MissingCrucialCriteria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZZU-hospital-assist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zzu.langchain4jStarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.zzu.langchain4jStarter" />
+      <option name="MAIN_CLASS_NAME" value="edu.zzu.langchain4jStarter.AppointmentServiceTest" />
+      <option name="METHOD_NAME" value="testGetOne_MissingCrucialCriteria" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmbeddingTest.testEmbedding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZZU-hospital-assist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zzu.langchain4jStarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.zzu.langchain4jStarter" />
+      <option name="MAIN_CLASS_NAME" value="edu.zzu.langchain4jStarter.EmbeddingTest" />
+      <option name="METHOD_NAME" value="testEmbedding" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmbeddingTest.testPinecone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZZU-hospital-assist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zzu.langchain4jStarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.zzu.langchain4jStarter" />
+      <option name="MAIN_CLASS_NAME" value="edu.zzu.langchain4jStarter.EmbeddingTest" />
+      <option name="METHOD_NAME" value="testPinecone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmbeddingTest.upLoadZZUHOSLib" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZZU-hospital-assist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zzu.langchain4jStarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.zzu.langchain4jStarter" />
+      <option name="MAIN_CLASS_NAME" value="edu.zzu.langchain4jStarter.EmbeddingTest" />
+      <option name="METHOD_NAME" value="upLoadZZUHOSLib" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zzuHosAss" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ZZU-hospital-assist" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.zzu.langchain4jStarter.zzuHosAss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zzu.langchain4jStarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.zzuHosAss" />
+        <item itemvalue="JUnit.EmbeddingTest.upLoadZZUHOSLib" />
+        <item itemvalue="JUnit.EmbeddingTest.testPinecone" />
+        <item itemvalue="JUnit.EmbeddingTest.testEmbedding" />
+        <item itemvalue="JUnit.AppointmentServiceTest.testGetOne_MissingCrucialCriteria" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e6f22f90-e28a-44d2-adca-34c8010c9587" name="更改" comment="" />
+      <created>1749087865301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749087865301</updated>
+      <workItem from="1749087867228" duration="183000" />
+      <workItem from="1749088202220" duration="5497000" />
+      <workItem from="1749109774183" duration="1186000" />
+      <workItem from="1749111016157" duration="4880000" />
+      <workItem from="1749177010338" duration="2501000" />
+      <workItem from="1749192376719" duration="286000" />
+      <workItem from="1749192682600" duration="2802000" />
+      <workItem from="1749206641553" duration="12099000" />
+      <workItem from="1749223413887" duration="61000" />
+      <workItem from="1749262973514" duration="2430000" />
+      <workItem from="1749276986212" duration="21058000" />
+      <workItem from="1749300126849" duration="3900000" />
+      <workItem from="1749346271414" duration="4347000" />
+      <workItem from="1749372594500" duration="1804000" />
+      <workItem from="1749374916675" duration="1962000" />
+      <workItem from="1749395060479" duration="394000" />
+      <workItem from="1749710409233" duration="2100000" />
+      <workItem from="1750130818473" duration="94000" />
+      <workItem from="1750213620805" duration="1577000" />
+      <workItem from="1750822246243" duration="444000" />
+      <workItem from="1750835044188" duration="454000" />
+      <workItem from="1750843399846" duration="229000" />
+      <workItem from="1754122384701" duration="135000" />
+      <workItem from="1757821415371" duration="2619000" />
+      <workItem from="1758422283023" duration="13000" />
+      <workItem from="1758423267027" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="last" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
