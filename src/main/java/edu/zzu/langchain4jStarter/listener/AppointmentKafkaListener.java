@@ -17,13 +17,13 @@ public class AppointmentKafkaListener {
     private static final Logger log = LoggerFactory.getLogger(AppointmentKafkaListener.class);
 
     @Autowired
-    private AppointmentService appointmentService; // 假设已存在用于操作数据库的Service
+    private AppointmentService appointmentService;
 
     @KafkaListener(topics = "appointment-topic", groupId = "zzu-hospital-assist-group")
     public void handleAppointmentRequest(AppointmentRequest request) {
         log.info("接收到Kafka消息，开始处理预约请求: {}", request);
         try {
-            // 模拟将预约信息写入数据库
+            // 将预约信息写入数据库
             AppointmentRecord record = new AppointmentRecord();
             record.setUserId(request.getUserId());
             record.setDoctorId(request.getDoctorId());
@@ -31,8 +31,8 @@ public class AppointmentKafkaListener {
             record.setAppointmentStatus("CONFIRMED");
             record.setCreateTime(LocalDateTime.now());
             
-            // 这里应该调用MyBatis Plus的Mapper来插入数据
-            // appointmentService.save(record);
+            // 调用MyBatis Plus的Service来插入数据
+            appointmentService.save(record);
 
             log.info("预约记录已成功写入数据库: {}", record);
         } catch (Exception e) {

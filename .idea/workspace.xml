@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6f22f90-e28a-44d2-adca-34c8010c9587" name="更改" comment="" />
+    <list default="true" id="e6f22f90-e28a-44d2-adca-34c8010c9587" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/interceptor/AuthInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/interceptor/AuthInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/listener/AppointmentKafkaListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/listener/AppointmentKafkaListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/provider/AdvancedChatMemoryProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/provider/AdvancedChatMemoryProvider.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/edu/zzu/langchain4jStarter/store/MongoChatMemoryStore.java" root0="FORCE_HIGHLIGHTING" />
@@ -46,54 +56,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.AIServiceTest.testAssistant.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.AIServiceTest.testQwenChatModel.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.AppointmentServiceTest.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.AppointmentServiceTest.testGetOne_MissingCrucialCriteria.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AppointmentServiceTest.testUpdateAppointment.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.ChatMemoryTest.testChatMemory.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.ChatMemoryTest.testMemoryAssistant.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.ChatMemoryTest.testSeparateMemoryAssistant.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.EmbeddingTest.testEmbedding.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.EmbeddingTest.testPinecone.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.EmbeddingTest.upLoadZZUHOSLib.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MongoCrudTest.testInsert.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PromptTest.PromptMessageTest.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.PromptTest.PromptMessageTest2.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.PromptTest.PromptMessageTest3.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.PromptTest.testUserInfo.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.ToolsTest.toolsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.langchain4jTest.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.langchain4jTest.testGPTDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.langchain4jTest.testQwenChatModel.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.langchain4jTest.testSpringBoot.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.zzuHosAss.executor&quot;: &quot;Run&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/develop/JavaWeb/AI/郑大校医助手/后端/ZZU-hospital-assist/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AIServiceTest.testAssistant.executor": "Debug",
+    "JUnit.AIServiceTest.testQwenChatModel.executor": "Debug",
+    "JUnit.AppointmentServiceTest.executor": "Debug",
+    "JUnit.AppointmentServiceTest.testGetOne_MissingCrucialCriteria.executor": "Run",
+    "JUnit.AppointmentServiceTest.testUpdateAppointment.executor": "Debug",
+    "JUnit.ChatMemoryTest.testChatMemory.executor": "Debug",
+    "JUnit.ChatMemoryTest.testMemoryAssistant.executor": "Debug",
+    "JUnit.ChatMemoryTest.testSeparateMemoryAssistant.executor": "Debug",
+    "JUnit.EmbeddingTest.testEmbedding.executor": "Debug",
+    "JUnit.EmbeddingTest.testPinecone.executor": "Debug",
+    "JUnit.EmbeddingTest.upLoadZZUHOSLib.executor": "Run",
+    "JUnit.MongoCrudTest.testInsert.executor": "Run",
+    "JUnit.PromptTest.PromptMessageTest.executor": "Debug",
+    "JUnit.PromptTest.PromptMessageTest2.executor": "Debug",
+    "JUnit.PromptTest.PromptMessageTest3.executor": "Debug",
+    "JUnit.PromptTest.testUserInfo.executor": "Debug",
+    "JUnit.ToolsTest.toolsTest.executor": "Run",
+    "JUnit.langchain4jTest.executor": "Debug",
+    "JUnit.langchain4jTest.testGPTDemo.executor": "Debug",
+    "JUnit.langchain4jTest.testQwenChatModel.executor": "Debug",
+    "JUnit.langchain4jTest.testSpringBoot.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.zzuHosAss.executor": "Run",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "D:/develop/JavaWeb/AI/郑大校医助手/后端/ZZU-hospital-assist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql_aurora&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\develop\JavaWeb\AI\郑大校医助手\后端\ZZU-hospital-assist\src\main\resources" />
@@ -232,6 +243,7 @@
       <workItem from="1757821415371" duration="2619000" />
       <workItem from="1758422283023" duration="13000" />
       <workItem from="1758423267027" duration="11000" />
+      <workItem from="1758461713347" duration="1102000" />
     </task>
     <servers />
   </component>
